@@ -7,7 +7,7 @@ Email: robin.v.cammayo@gmail.com | Github: [github.com/harvuinnn](https://github
 Aspiring 3D artist specializing in Blender, modeling low and high poly assets for games in Unity/Roblox Studio, and other engines. Published games under Bakunawa Studios and have contributed to millions of visits to the Roblox platform. Multiple experience on working with different clients internationally and a variety of projects. 
 
 ## CV
-[DOWNLOAD MY CV](https://github.com/harvuinnn/cammayo-portfolio/blob/main/Cammayo%20CV)
+[DOWNLOAD MY CV]([https://github.com/harvuinnn/cammayo-portfolio/blob/main/Cammayo%20CV](https://github.com/harvuinnn/cammayo-portfolio/blob/main/Cammayo%20CV.pdf))
 
 
 ## **KEY SKILLS**
